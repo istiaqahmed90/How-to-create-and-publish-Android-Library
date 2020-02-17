@@ -18,6 +18,7 @@ allprojects {
 ```
 
 4. add below line to your gradle app
+
 implementation 'com.github.istiaqahmed90:make_lib:1.0'
 
 
